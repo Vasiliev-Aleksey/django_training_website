@@ -9,7 +9,7 @@
 __pycache__/
 local_settings.py
 /my_website/db.sqlite3
-media
+my_website/media
 
 ### Linux ###
 *~
