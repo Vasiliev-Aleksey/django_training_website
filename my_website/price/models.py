@@ -1,6 +1,6 @@
 from django.db import models
 
-# Create your models here.
+
 class PriceCard(models.Model):
     pc_value = models.CharField(max_length=20, verbose_name="Цена")
     pc_discription = models.CharField(max_length=200, verbose_name="Описание")

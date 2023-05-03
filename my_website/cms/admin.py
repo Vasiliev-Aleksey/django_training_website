@@ -2,7 +2,7 @@ from django.contrib import admin
 from django.utils.safestring import mark_safe
 from .models import CmsSlider
 
-# Register your models here.
+
 class CmsAdmin(admin.ModelAdmin):
     list_display = ('cms_title', 'cms_text', 'cms_css', 'get_image')
     list_display_links = ('cms_title',)
