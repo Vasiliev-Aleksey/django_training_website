@@ -211,3 +211,11 @@ ENV/
 # mkdocs documentation
 /site
 /venv/pyvenv.cfg
+/my_website/my_website/static/admin/
+/my_website/my_website/static/admin/js/
+/my_website/my_website/static/admin/img/
+/my_website/my_website/static/admin/css/
+/my_website/my_website/static/admin/
+/my_website/my_website/static/admin/js/
+/my_website/my_website/static/admin/img/
+/my_website/my_website/static/admin/css/
